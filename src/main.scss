@@ -1,0 +1,8 @@
+/*
+Sass can compile multiple files into one. You can break up your css into smaller parts. This is the main file that connects to the individual scss files in the src folder.
+*/
+
+//Add the baseline
+@import './scss/variables';
+@import './scss/base';
+
