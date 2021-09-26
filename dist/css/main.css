@@ -1,3 +1,9 @@
-
-
-/*# sourceMappingURL=main.css.map */
+/*
+Sass can compile multiple files into one. You can break up your css into smaller parts. This is the main file that connects to the individual scss files in the src folder.
+*/
+/*
+This is for css variables that control global 'atoms' like color & type. There are actually 2 variable types you can use, Sass and CSS variables. 
+*/
+/*
+This where baseline css styles can go, for example, body, img, article, etc styles
+*/
